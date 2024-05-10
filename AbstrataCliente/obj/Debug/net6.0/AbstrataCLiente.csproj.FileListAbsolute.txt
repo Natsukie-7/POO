@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\bin\Debug\net6.0\AbstrataCLiente.exe
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\bin\Debug\net6.0\AbstrataCLiente.deps.json
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\bin\Debug\net6.0\AbstrataCLiente.runtimeconfig.json
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\bin\Debug\net6.0\AbstrataCLiente.dll
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\bin\Debug\net6.0\AbstrataCLiente.pdb
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.dll
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\refint\AbstrataCLiente.dll
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.pdb
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\AbstrataCLiente.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Poo\POO\AbstrataCLiente\obj\Debug\net6.0\ref\AbstrataCLiente.dll
